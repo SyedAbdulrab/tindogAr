@@ -1,3 +1,5 @@
-# TinDog - Tinder for Dogs
+## TinDog - Tinder for Dogs
 
 Live Site Url : https://syedabdulrab.github.io/tindogAr/
+
+## User Interface
