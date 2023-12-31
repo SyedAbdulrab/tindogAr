@@ -12,3 +12,7 @@ Live Site Url : https://syedabdulrab.github.io/tindogAr/
 
 
 ![image](https://github.com/SyedAbdulrab/tindogAr/assets/99114574/25c701cd-3430-4efd-98ff-797023d0755d)
+
+
+Mobile Responsiveness:
+![image](https://github.com/SyedAbdulrab/tindogAr/assets/99114574/e466910a-2336-4934-90d5-0313b684c04d)
