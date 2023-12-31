@@ -1,2 +1,3 @@
 # TinDog - Tinder for Dogs
-# deployed at : https://syedabdulrab.github.io/tindogAr/
+
+Live Site Url : https://syedabdulrab.github.io/tindogAr/
